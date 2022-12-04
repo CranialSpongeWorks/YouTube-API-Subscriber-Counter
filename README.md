@@ -12,4 +12,7 @@ Let's all amke one of these
 
 It requires you to go into your Google Account and setup a KEY for it.
 
+Hookup diagram
+![ESP8266 D1 Mini to MAX7219](https://user-images.githubusercontent.com/87495193/205516855-14aa26b5-225d-472a-9219-1b9c73a949bf.jpg)
+
 Have fun guys!
